@@ -1,0 +1,9 @@
+---
+directory:
+  help: Directory to download the files to.
+  type: str
+  required: True
+bpurl:
+  help: Location of the batchpatch url list.
+  type: str
+  required: True

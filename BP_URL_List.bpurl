@@ -1,0 +1,678 @@
+<?xml version="1.0" standalone="yes"?>
+<BatchPatchUrlList>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243){729a0dcb-df9e-4d02-b603-ed1aee074428.104}</columnParentUpdate>
+    <columnUpdate> {52f12710-6564-4422-9f0d-c945378a14a1.104}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/vcredist_x64_a7c83077b8a28d409e36316d2d7321fa0ccdb7e8.exe</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243){729a0dcb-df9e-4d02-b603-ed1aee074428.104}</columnParentUpdate>
+    <columnUpdate> {542f36e8-38e5-49ae-9aee-f35c6ff7107d.104}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/vcredist_x86_470640aa4bb7db8e69196b5edb0010933569e98d.exe</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966826){02b62bb0-33b2-4585-8945-0f0a711b909e.202}</columnParentUpdate>
+    <columnUpdate> {44ff7f80-399e-48b2-a90b-1b1fbbfec334.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/07/windows8.1-kb2966826-x64_8cac47f186ad0b79c2bf86fac1e6ef0ce64038dd.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2973114){74f15387-bc02-48be-afda-32caa8940bc7.201}</columnParentUpdate>
+    <columnUpdate> {414bc762-d168-42bc-ae43-97a8828ef575.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windows8.1-kb2973114-x64_d91d0bc1bb2cc0b183dffe0b4fcbaf78280a3fae.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2972213){228676f3-8545-444c-a7e0-4df7b9c2b4d6.201}</columnParentUpdate>
+    <columnUpdate> {e318151e-2597-43df-9669-ac7d42742e34.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windows8.1-kb2972213-x64_5283534b6ae766d15feba8fb558c85d1cc1dc838.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2894852){5be19a8d-c6d0-487e-90ea-cbd29982ef68.202}</columnParentUpdate>
+    <columnUpdate> {560601fe-ea1f-4cf8-8297-ce4831fc4d03.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows8.1-kb2894852-v2-x64_0fba43b2aa19b2dcea1013a48594f4d6cdde49cb.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2966828){ced67375-e431-4a8b-9245-52386c04f674.205}</columnParentUpdate>
+    <columnUpdate> {3f0429ca-7d43-466f-904d-e3f427a8db30.205}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/07/windows8.1-kb2966828-x64_1d75fda184661d15ce90a958c482ed8082dc2f35.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2968296){57163e5f-434a-4bb4-9b78-de2d56558460.201}</columnParentUpdate>
+    <columnUpdate> {480d1725-7247-494e-b208-ca70ec17ebdb.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2968296-x64_f53d611632f0019d2eca8ac0c07e4b14168963fe.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB2972103){f782b6c4-2b86-4eb7-9708-5531bc6c1a8f.201}</columnParentUpdate>
+    <columnUpdate> {f2d7e497-c71f-410a-a50c-cda25c30f9e4.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2972103-v2-x64_bf51b1c1736b88a1b4d0f2d08e4de90b14ed8ecb.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB2982998){8a5271ac-3d42-4ddf-b49e-dc0f674f2402.203}</columnParentUpdate>
+    <columnUpdate> {7d91715f-cf0b-43ef-947f-b3105db726e9.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windows8.1-kb2982998-v2-x64_d7ebb6cf561a9a346c4e331d691629e90ad42e73.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3023266){8ffb7a9e-cafe-456f-a219-13b3e7a56ed2.200}</columnParentUpdate>
+    <columnUpdate> {e8f1cadf-a880-4fd2-bfb6-a0d0d38046cb.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/01/windows8.1-kb3023266-x64_dad371a7f62293a764dd892d5ca0463e7f7e116e.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3019978){2628719c-4abd-46e2-93e8-fe53c19c3117.201}</columnParentUpdate>
+    <columnUpdate> {57c4041e-4ab7-4839-8dfd-9684ea8f5def.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows8.1-kb3019978-x64_fd77f36d51e48efd80b4fb1b95c3b5425e707ab8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3000483){4361108d-d09b-4c4d-8b2f-f1167f7b8c57.204}</columnParentUpdate>
+    <columnUpdate> {eb7968ea-9fc6-42f1-876f-dbecad9e2f6c.204}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows8.1-kb3000483-x64_f304492d42d53e5621d846cf32527a07f45042e1.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3035126){3fea2186-fb39-41f1-9214-55a5bb5552e6.201}</columnParentUpdate>
+    <columnUpdate> {b4c568be-6338-4707-861f-d678902453ec.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windows8.1-kb3035126-x64_01667251d25ac56e0707df329e382cfb1e94cc49.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3045999){4678f8b9-0b81-4f8b-853f-4adfed9262a6.203}</columnParentUpdate>
+    <columnUpdate> {1927136c-2030-4fb5-a585-1c01c87d2e17.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3045999-x64_0b7668d0cb45018b5fc0d3e894db839c43622a33.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3045685){5d50743b-e648-4acc-8986-a7bc5aa53f71.201}</columnParentUpdate>
+    <columnUpdate> {289690d6-10a6-4700-902d-29a33011762b.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045685-x64_b88ee2dca80420c21ed122772f0cba298082a6fe.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3037576){44ecac30-a0b2-446c-966d-77f6e158ed0b.202}</columnParentUpdate>
+    <columnUpdate> {88d303f1-29c8-4de5-b5ad-902cd0efe9ed.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3037576-x64_684f74eb38d78fac0dde70305b976269e186e190.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3023219){506662d1-d120-4f0f-820d-9a49155e5553.202}</columnParentUpdate>
+    <columnUpdate> {79c8ca20-1829-417d-8720-d1a87f72bee9.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windows8.1-kb3023219-x64_a34fa026c6699fe492b4c04dfcbb243f64824104.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3059317){8bb29af2-47b2-439e-b999-3176c23a8e8b.203}</columnParentUpdate>
+    <columnUpdate> {c59d8eb4-5c18-4962-8493-d3facd7fe671.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows8.1-kb3059317-x64_53d78356964c6fcbf78a6b4254574edbe36877b5.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3061512){54110383-c46c-4424-a8ef-9cd6b7a20025.201}</columnParentUpdate>
+    <columnUpdate> {176f976a-6c0a-478a-b4c2-617e095f0790.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3061512-x64_30db8b5b5239de797f4d7af64c9c57572a9faaa8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3072307){35d46cea-1bc1-4d7f-8bf9-adaaeb5a7bf5.202}</columnParentUpdate>
+    <columnUpdate> {a1071ca1-f04d-4a8a-a7b9-d489bdf0f402.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3072307-x64_5ea0c28454c1bc24c5b448ccaaeb050ee762e600.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3046017){4b7876f0-b962-4c4c-9e45-fe35b0c801ce.201}</columnParentUpdate>
+    <columnUpdate> {f688aa65-3fa1-44f1-8127-e1c49344ccf2.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3046017-x64_6f80cae2289d25a37b2d06522245cad05921a33d.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3071756){f7c02df0-0cb8-4a56-b367-7efd5c9bc9ac.201}</columnParentUpdate>
+    <columnUpdate> {c5f45d1b-220a-4fd8-a4b5-f0ba90b7f337.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3071756-x64_a3914a24109577149a5eda07144fe736912ae0e4.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3082089){7c5f1dad-2f35-4120-b4ad-c5947edf0567.201}</columnParentUpdate>
+    <columnUpdate> {efbe8096-2177-4031-b2b1-a5e8a6d79189.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3082089-x64_08cd5c63aabd9d1862197a057914b87f51a26cd8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3084135){04f04253-f803-43b8-8b37-6841c614dd9f.201}</columnParentUpdate>
+    <columnUpdate> {a5839156-653a-4cfa-818c-37c7d6b6b62c.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3084135-x64_1585fa1306b5b3d4b27895a8f6ec3cda87f3c75e.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3074545){8eb35062-4329-448a-8dea-bae6efab76df.202}</columnParentUpdate>
+    <columnUpdate> {e5a9b0c9-4fda-46dd-8090-4d4c82c8dcda.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3074545-x64_9b81dbc73fc99ed8432eb5d7dffd87eb70e5272e.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3086255){c848ed4a-5e2e-43dc-bd1b-cb2f717e90cd.201}</columnParentUpdate>
+    <columnUpdate> {88377b22-e9f0-4cfb-935d-677ad73caa70.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3086255-x64_1c97751fb6c946381f53cd0cf24b962a73faa0ca.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3081320){9a3be93c-73f7-4c08-8ca7-4f848986f79b.201}</columnParentUpdate>
+    <columnUpdate> {d8d1f222-734d-4353-8003-f7abd6f0f179.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3081320-x64_4494494bb01eb85db0ba22d531c11dca44ff05b8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3102939){3d2c6725-e2cc-4566-8235-34dd32369599.202}</columnParentUpdate>
+    <columnUpdate> {d65b62d1-7a30-4f64-8385-8eaca9495607.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3102939-x64_0a8347473afddef3cfc794a6eaf170f91852a1c1.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3092601){931c52a4-931b-45c3-92a3-20cb49eb8982.1349}</columnParentUpdate>
+    <columnUpdate> {80360cb0-ce14-4bd4-bffa-fbb37cb40728.1349}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3092601-x64_842c333d489ca201a01cbfe5dce6ad24218d94c6.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64-based Systems (KB3097992){79ee2dcd-1520-4e81-b3db-d78cb7b400de.202}</columnParentUpdate>
+    <columnUpdate> {741ed567-1698-4b56-8472-c37e16c8932d.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097992-x64_642e3f2c5d1a3cf111549bd4be469ed34f722add.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3109103){d928f50f-191e-4858-b546-acda983da182.201}</columnParentUpdate>
+    <columnUpdate> {573012d6-f430-4753-b87b-2640fa0b0507.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/windows8.1-kb3109103-x64_ab8fd7330b6ad8781258f12d668c21b20f98d6b9.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3110329){27ae312b-1b1a-4f18-a574-3dfe46244d3a.202}</columnParentUpdate>
+    <columnUpdate> {27fbf4cd-f5b6-450d-8fc9-b9e0b264fd32.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3110329-x64_d684647aa6143ff34e428717a2afbf9dd2272804.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3126593){3ce61d87-7153-4540-a74b-fd0065edfdde.204}</columnParentUpdate>
+    <columnUpdate> {41e2dbde-857c-416c-9adf-04ac674c8980.204}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126593-x64_9e51aa19bcd15cc3c242abdf66f2c9a0bc2cfb1a.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3133043){1bc49ccc-409b-4d07-93b7-cea850ea0d78.201}</columnParentUpdate>
+    <columnUpdate> {cbdc5cba-6a50-49a7-8e57-d3ce6d110c40.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3133043-x64_3736edb5ae210e1ce8786de0321de631faee78a5.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3127222){97561c5e-8fe9-4038-8e3f-1ccc60093309.203}</columnParentUpdate>
+    <columnUpdate> {9c0763e3-bad8-4df9-bc24-5c20ff8703e2.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3127222-x64_c7dba11ff75523e060f9df1748732f410e67379b.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3126041){aa793ff1-f4b7-42b1-9f24-6f11b50f952c.202}</columnParentUpdate>
+    <columnUpdate> {74e6aa5f-28df-4c10-86ae-ec4de553270d.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126041-x64_91f5d3e77c59198fbd8ced41adf93688d7fe0de1.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3126434){6b6a5779-3fe5-4789-aba6-0c3e9b802b37.201}</columnParentUpdate>
+    <columnUpdate> {ed028dce-ef43-43be-9d83-447af6bca12c.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126434-x64_af45c9c317c41e559388fde3c83d50edba5bd675.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3126587){214b1f40-24ed-4dae-9e76-237763c5c8ca.201}</columnParentUpdate>
+    <columnUpdate> {36d80e6d-37f2-4661-a223-33bed72ca969.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126587-x64_c96c573ee82705317bfc9c0dc87b6a1016ea9394.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3139398){dd382658-effd-4e24-abca-877e1915bf6d.201}</columnParentUpdate>
+    <columnUpdate> {ee1e93d4-7352-47ac-9cc3-cc26a48de405.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3139398-x64_80ea83cef2429c5fdc9742c52f2933ed39b6089d.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3139914){06eae584-188d-4a35-805a-ef98beddcd3d.201}</columnParentUpdate>
+    <columnUpdate> {6b4072ec-5e3a-40b1-b98f-c4c6806c1fea.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/windows8.1-kb3139914-x64_9f7dcf9091a8562409252c67893df3e90cd22b66.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3146723){209e2d1e-330f-4dcc-b705-5999c2f38385.201}</columnParentUpdate>
+    <columnUpdate> {f1e16ab6-8c35-4ca4-b142-1017a9ae40fb.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146723-x64_a4bc61d3868546e9ad862b4fbd1f108534e05bf8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3156059){05ba4c3c-81c2-4c19-9899-a4a18716cddb.201}</columnParentUpdate>
+    <columnUpdate> {13be2c36-d590-424f-aa46-fef9e5c5772c.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156059-x64_11d2d91d15a02d79779f46abd4137ff78373bc4c.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3155784){20d1a457-eca7-488d-a870-96d7374cb436.201}</columnParentUpdate>
+    <columnUpdate> {7d7bd61c-4b89-49cf-8a04-d501cb7b03ea.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3155784-x64_1fa94b5b28bba02f73cc3e5f25728e14edd48107.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3159398){d9f4e1b5-4477-4d83-8c27-111ce0e88dd8.202}</columnParentUpdate>
+    <columnUpdate> {f0eebbae-c8c6-4716-8aa7-020065d9a15e.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3159398-x64_6e5eb79e13e00ce8311148b88bdbfe78706d5d70.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3161949){67a00639-09a1-4c5f-83ff-394e7601fc03.202}</columnParentUpdate>
+    <columnUpdate> {0baccab4-ec1e-4642-a930-27f86de3bdb3.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161949-x64_ae8dcf9a49b52f13979cb45e8ce0ba34889c98c9.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3172729){cdde339c-ebdb-4a16-add4-fb196a5053a8.203}</columnParentUpdate>
+    <columnUpdate> {fe255b95-8961-4a41-a04e-d086313ee829.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/06/windows8.1-kb3173424-x64_b019e816baa20ca253d01ef345adc8cc792b7fde.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3175024){77798aee-dc0e-409a-875c-7134c8a93766.202}</columnParentUpdate>
+    <columnUpdate> {31d99da6-af21-493c-90b7-59577d1dca9a.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/08/windows8.1-kb3175024-x64_77a1e6f0b2c9c243f4e25e5edfcd98995ffdf330.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Security Update for Windows Server 2012 R2 (KB3178539){e90f9283-7304-4a98-a5ec-98bd2a3163e7.200}</columnParentUpdate>
+    <columnUpdate> {3b3de24c-3678-42c7-b1da-4ea815f7fcdc.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/09/windows8.1-kb3178539-x64_d963288a62d98c87271d0d7b6055456bbd307c81.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>December, 2016 Security Only Update for .NET Framework 4.6.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB3205410){14a84341-8f93-4278-a8e3-b4fb57bd4adf.201}</columnParentUpdate>
+    <columnUpdate> {0a8549de-db33-4513-b64d-a41e578e259a.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows8.1-kb3204802-x64_a4d4cbd344696e07ec6e6bf767f18a77901b0183.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>April, 2017 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB4014987){e4e4f3db-bebd-463b-9da0-946525046a17.202}</columnParentUpdate>
+    <columnUpdate> {53cfcdc2-3324-436d-ad2d-708d065ad386.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014550-x64_7d0158f783089b4e0027a18c8afa89717492989f.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>April, 2017 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB4014987){e4e4f3db-bebd-463b-9da0-946525046a17.202}</columnParentUpdate>
+    <columnUpdate> {a826ce73-3a32-40af-96d6-185c57e664d2.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014574-x64_837e6b3e9d9dabf7e788072a810aeb32bb3e3e0d.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>April, 2017 Security Only Quality Update for Windows Server 2012 R2 (KB4015547){79629e4e-67eb-438d-9420-17c673012731.209}</columnParentUpdate>
+    <columnUpdate> {daf20544-e42c-43b4-a37e-24dfa59b1b37.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows8.1-kb4015547-x64_2234d08abcaffa5d30c04d0745da6f892204a5ca.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-05 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4019213){2913676b-33a1-4557-9160-f36bfed5f294.203}</columnParentUpdate>
+    <columnUpdate> {e47a2b26-a59d-4409-b812-0b79f3e57718.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows8.1-kb4019213-x64_673663da365992b9b97cddc43eea1b6d04f7e091.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>May, 2017 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB4019111){2e2dc8c8-c324-4968-9461-1c5c6f1190c1.203}</columnParentUpdate>
+    <columnUpdate> {bdc3eecb-82aa-45dd-a2b5-76f2cc7d8445.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows8.1-kb4014581-x64_1b4a26ccc28b4f5cd91e70aab2e932a113222a66.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>May, 2017 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 8.1 and Windows Server 2012 R2 for x64 (KB4019111){2e2dc8c8-c324-4968-9461-1c5c6f1190c1.203}</columnParentUpdate>
+    <columnUpdate> {1da3ac26-f2b7-43d3-906a-0b675dcdf30a.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows8.1-kb4014587-x64_68f260d82ce421eb9c989199a8d6db93943d771b.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-06 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4022717){7b6c010d-36ea-4bb4-9d06-9e44c1235690.201}</columnParentUpdate>
+    <columnUpdate> {1594b6df-b754-4e80-bd46-d28cca1d4b5a.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows8.1-kb4022717-x64_076c76ae51407fceb21427da574b7bbe1b15f2f5.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-07 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4025333){a8091733-a526-4480-afe7-72a1b3385439.201}</columnParentUpdate>
+    <columnUpdate> {e7806391-58c0-4e5e-8389-2ba03dcae732.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows8.1-kb4025333-x64_d28266c0c18747bb4a6ce1380c40a2a573a4ab0c.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-08 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4034672){1d84c38c-d2dd-4ad8-acd7-19d9391de17f.201}</columnParentUpdate>
+    <columnUpdate> {9a75bf4b-9758-4087-a90e-ec3cbb7db258.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/08/windows8.1-kb4034672-x64_5b187a9bbfc66820436fd04d9afd4f9ea91a80b8.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-09 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4038793){9516efa8-6493-43de-979c-ebf2aa89aa69.200}</columnParentUpdate>
+    <columnUpdate> {6a19b780-bc96-45bd-9fdf-6b5489a7b3da.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows8.1-kb4038793-x64_fe36c3932151d7c3217e433860424d6b93a15934.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-09 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7 on Windows 8.1 and Server 2012 R2 for x64 (KB4041092){56ea2dc9-15e6-4ab3-ac41-084b1b8158d1.200}</columnParentUpdate>
+    <columnUpdate> {dc186d1e-6653-4359-b51e-a453dc9b5be3.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows8.1-kb4040956-x64_aa015c1e1c0f1947ccadbc63865b03162735b64c.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-09 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7 on Windows 8.1 and Server 2012 R2 for x64 (KB4041092){56ea2dc9-15e6-4ab3-ac41-084b1b8158d1.200}</columnParentUpdate>
+    <columnUpdate> {3887ccac-7f2d-4eb6-b031-ab9be3ea3ad9.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows8.1-kb4040967-x64_46750d09e12a1a029a59e694f69d5a31e62d039d.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-10 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4041687){e36e24fc-789e-483f-bb72-01a3ec3eea74.200}</columnParentUpdate>
+    <columnUpdate> {e0ef526b-1d08-445e-abd1-415cc91b35c0.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows8.1-kb4041687-x64_3bdf264bcfc0dda01c2eaf2135e322d2d6ce6c64.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-11 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4048961){896142dc-9329-403d-98e0-229567e995d9.201}</columnParentUpdate>
+    <columnUpdate> {6966a8ad-3bfa-4fd4-937e-661c46167972.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048961-x64_8e9f3d89ea7772b32dc109ca0b68ce439c10bef3.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2017-12 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4054522){89bb3c1a-4825-4ae3-a42f-ad0ae8c86c1a.201}</columnParentUpdate>
+    <columnUpdate> {c3deb6c8-cea3-4a91-9b9a-9f341a6be4db.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windows8.1-kb4054522-x64_5efe65be45b8d33fa97d27849da6c241226ef1f9.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-01 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4056898){29159163-0da5-456d-92a5-9bd853a401ae.200}</columnParentUpdate>
+    <columnUpdate> {60229f35-a569-4f57-b43c-093030262a40.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4056898-v2-x64_515375e00a7b4a2fc06c28385f2a8824d0ba7bf5.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-01 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1 on Windows 8.1 and Server 2012 R2 for x64 (KB4055271){0f6efea5-e7fe-4bab-80fa-4033e4a017ab.200}</columnParentUpdate>
+    <columnUpdate> {10503400-77e5-475b-90b8-b10dad252dd2.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054177-x64_77d413bfe103215b0d3b11297645970ec0ce92f3.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-01 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1 on Windows 8.1 and Server 2012 R2 for x64 (KB4055271){0f6efea5-e7fe-4bab-80fa-4033e4a017ab.200}</columnParentUpdate>
+    <columnUpdate> {b920a6a1-65f2-42c3-a403-f09f228808ed.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054182-x64_2aa841483f64be6359507f388108af474a5f3763.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-02 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4074597){f5df629a-edb7-49f1-946d-18e4f0a860f0.202}</columnParentUpdate>
+    <columnUpdate> {fa60f362-4789-467c-862d-6281f7e5c668.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074597-x64_a456c5d978fcfa4f38f963760456bfc7ed458774.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-03 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4088879){913c1d08-eb63-4b74-aeff-a476d1fbaa2c.201}</columnParentUpdate>
+    <columnUpdate> {ab14188c-fade-4065-a21f-e38796302695.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windows8.1-kb4088879-x64_62b1862fb41460057813e6fd0830c6daa3084c62.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-04 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4093115){33be9fcf-aef5-44fd-8164-e6b8baa88549.202}</columnParentUpdate>
+    <columnUpdate> {62ea8cfe-e2ae-4bcc-a782-482112480df9.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows8.1-kb4093115-x64_242b29a11f831debef87628f01d7fbfb960eef2c.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-05 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4103715){196f3a64-83fb-4123-a71b-3e7aa0534b4a.200}</columnParentUpdate>
+    <columnUpdate> {7404d0d2-ce23-40a7-93f3-f876737b0b83.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows8.1-kb4103715-x64_ab6cc1db3591211aec4dadfca7a4c556cf7380a6.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1 on Windows 8.1 and Server 2012 R2 for x64 (KB4099639){041c9d83-7a16-4e5d-8f2b-35d5cca0fc62.203}</columnParentUpdate>
+    <columnUpdate> {ddd2cf01-0fb8-4749-9107-bc884ee2b196.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windows8.1-kb4095515-x64_4a128ef6bd5b889b877e6fad63d7397701dd0e11.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1 on Windows 8.1 and Server 2012 R2 for x64 (KB4099639){041c9d83-7a16-4e5d-8f2b-35d5cca0fc62.203}</columnParentUpdate>
+    <columnUpdate> {175ba2fa-59a6-47b3-93be-f6b29dc1dd37.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windows8.1-kb4096236-x64_c26660476889f8a317f7778582f12fc027760c22.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-06 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4284878){45636cfd-ab6b-4db5-a310-712f3663eae6.201}</columnParentUpdate>
+    <columnUpdate> {08278379-b5db-45e0-ad28-0e0adda61f15.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/05/windows8.1-kb4284878-x64_81e1da3229002d0e6b5ac8099ac5816e3b4393aa.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-07 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4338824){007ce1f3-3a12-40ef-8389-322068b780a7.201}</columnParentUpdate>
+    <columnUpdate> {48e1a476-68bf-4017-80c2-8302b7dc6635.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windows8.1-kb4338824-x64_90c60d5b3c163ab4822df1ba9f0f9ed408d71d24.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4340006){1d638098-af3d-4ca5-84e1-db9cb0e82ae4.202}</columnParentUpdate>
+    <columnUpdate> {0369b3f7-fdf3-4825-93f9-704dcac504bb.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338613-x64_6de384c68cf1ccd9b521efb687340e39d0116230.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4340006){1d638098-af3d-4ca5-84e1-db9cb0e82ae4.202}</columnParentUpdate>
+    <columnUpdate> {28dcd9a7-4a63-46d1-93ba-eb758020e91d.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338605-x64_da3cf7be4cfb08acb9649c1be0dbd89229aaabd1.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Update for Windows Server 2012 R2 (KB4339284){d91c89a6-0ef2-4b57-961d-f3f657de9d66.200}</columnParentUpdate>
+    <columnUpdate> {840cb0fe-c245-428a-a5dd-9edd3567559b.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/07/windows8.1-kb4339284-x64_6c6de13ba3b4f098d6601db41c4d3e346fb75171.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-08 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4343888){ed4981c9-7aa7-4e1f-bdd5-b43d2afae17a.201}</columnParentUpdate>
+    <columnUpdate> {af430e3d-4c77-43a4-bd7b-2e134beacd51.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4343888-x64_3da0bf129c3f02907b2e4e894c383f2efc8f12b4.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-08 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4345681){c601cf7a-ba23-4d6d-bcdc-c61c258e7f1f.201}</columnParentUpdate>
+    <columnUpdate> {a1c59587-2a19-48dc-88a8-74836936c6cf.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4344166-x64_56ad0c31cec81d4e8c6c0d39099e5be70227e8fc.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-08 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4345681){c601cf7a-ba23-4d6d-bcdc-c61c258e7f1f.201}</columnParentUpdate>
+    <columnUpdate> {5a2feb34-5e7c-40cc-a43c-337ed5b0a057.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4344178-x64_845ef9f7ed0b3d9b61ecbc16198fd34d4cf5e6f3.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-09 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4457143){b4e784a4-9907-4d25-90ef-858bcafcf450.201}</columnParentUpdate>
+    <columnUpdate> {f57fb68d-1017-4c80-a4b0-2a90ac0dfe98.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/09/windows8.1-kb4457143-x64_39ec85243fb8819ec0b9d683e1a0ff9e862b1dfc.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-10 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4462941){07cf0ca5-397c-46ee-9093-b1e5dbce59bb.200}</columnParentUpdate>
+    <columnUpdate> {2e218f9b-736a-4650-b613-ce810fcf5be5.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windows8.1-kb4462941-x64_a20b1d63457a6509ac79eb57972dc4c3d4bd85c0.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Update for Windows Server 2012 R2 (KB4462901){cecc9666-c679-4104-9ba0-bfe206d181a5.201}</columnParentUpdate>
+    <columnUpdate> {44e280f2-41a6-4014-b244-b85ff23d8c5e.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/10/windows8.1-kb4462901-x64_e4c74c7408fed9b2a35ae78b9ca7e565fcb44a83.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-11 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4467703){b9d9c93f-8b29-4d1c-8a54-395b4e31ccc9.200}</columnParentUpdate>
+    <columnUpdate> {b34228db-40f6-4620-a72d-e9ed59ca659c.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/10/windows8.1-kb4467703-x64_d69d1c6bdfc797811b9c7d958b34fcc39d87effb.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Update for Windows Server 2012 R2 (KB4468323){03a8098b-7740-40da-9082-00ea285035be.200}</columnParentUpdate>
+    <columnUpdate> {9b73336a-ddcc-4937-99ac-c450e5d98375.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/11/windows8.1-kb4468323-x64_3a350e3c225374123008438223f05fddd19c8955.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-12 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4471322){39654137-cb30-429e-b09a-2c39055716c1.200}</columnParentUpdate>
+    <columnUpdate> {facd4888-0b2f-4340-8e75-8eed6bb1d24b.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows8.1-kb4471322-x64_8fe2cb5bbb8660a07ab7a46a8535a92b513707ca.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-12 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4471983){0fcc811c-48de-4c15-8240-5ccdb8171d8b.200}</columnParentUpdate>
+    <columnUpdate> {49e25137-40cf-4390-9b10-a73a10d14a68.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows8.1-kb4470499-x64_02fd8fc57fb3b1386c2a551e4cc54245910078ab.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2018-12 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4471983){0fcc811c-48de-4c15-8240-5ccdb8171d8b.200}</columnParentUpdate>
+    <columnUpdate> {7d419aff-35a7-438f-bd76-96df1d3e4310.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows8.1-kb4470602-x64_33cfd9632019007bb4d87286d2ad53c93ee7b805.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-01 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4480964){45e80aae-4277-4c87-bd05-5cc8c6dd672e.200}</columnParentUpdate>
+    <columnUpdate> {718c5cd7-ae3a-4db2-b10e-9f70b9ba26cc.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows8.1-kb4480964-x64_a76f16384dd46cd1f6bd11ce39ce7f52d94933f7.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-02 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4487123){aa180d6a-6b08-4f8b-8e93-682de0657164.200}</columnParentUpdate>
+    <columnUpdate> {e4cf08a9-c1f6-4ce8-b04d-050ccbfbff98.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows8.1-kb4483484-x64_e46aaf18c5b6382dc93a62b6db803f1a693477a0.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-02 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2 for Windows 8.1 and Server 2012 R2 for x64 (KB4487123){aa180d6a-6b08-4f8b-8e93-682de0657164.200}</columnParentUpdate>
+    <columnUpdate> {96b68e43-8136-4786-8c01-109af9c9f3cc.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows8.1-kb4483469-x64_c5ac17fdca18f3813de5747a7bbae268cce70577.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-02 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4487028){0b256bc7-170d-4ee7-a993-8e9fac37a589.201}</columnParentUpdate>
+    <columnUpdate> {8cd6a3d6-8319-46c1-8a9d-0ae1bdfd1ec4.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows8.1-kb4487028-x64_df7ee5a6e41607e66103a8331356ee8f28263785.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-02 Update for Windows Server 2012 R2 for x64-based Systems (KB4486459){adbc9c77-f9ba-4224-8b5c-4ae453898c2b.201}</columnParentUpdate>
+    <columnUpdate> {da9521bb-b32a-4417-a719-95d872f2bc1c.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/uprl/2019/02/windows8.1-kb4486459-x64_4436b6da765f8cfae1486f2d8ea3cca4672f3494.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-03 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4489883){dded804a-129f-4644-899c-e49ccd2bad2c.201}</columnParentUpdate>
+    <columnUpdate> {b29c28fa-b81f-4a65-9a20-c1459ac85eec.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows8.1-kb4489883-x64_ce9ae099b423d2472e0c9412fcca3e8beaa33a7a.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-03 Update for Windows Server 2012 R2 for x64-based Systems (KB4490128){c49cf4bb-325d-4752-ae32-33e053fabaf2.201}</columnParentUpdate>
+    <columnUpdate> {ef194e62-04ec-4fd3-be50-95db43326530.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/03/windows8.1-kb4490128-x64_37d11d0af771ea8d8ed67693976c92e5a98edf81.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-04 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4493467){8693f170-0aea-4539-bc72-feffa6e947ba.203}</columnParentUpdate>
+    <columnUpdate> {21bf8ee7-9b01-4b3c-9ee2-f2c8e8c1a420.203}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windows8.1-kb4493467-x64_41a0c107c75c4c15ed6076541c31eb2dcecb86f7.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4498963){b5393e3e-a2b0-4b32-ad87-b324d1a6c273.200}</columnParentUpdate>
+    <columnUpdate> {c21a7674-a4e2-4496-9740-adbf589c1518.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows8.1-kb4495615-x64_c595f46a03cb73345c8d75327733c8054aa99f13.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4498963){b5393e3e-a2b0-4b32-ad87-b324d1a6c273.200}</columnParentUpdate>
+    <columnUpdate> {b628e72b-d697-4d71-b19c-5d5b4e27a08c.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows8.1-kb4495586-x64_0203ed8c63644334b0ada9ff622ea2244fbec584.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-05 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4499165){770814d7-311f-4093-a9b4-a42b90c29a13.200}</columnParentUpdate>
+    <columnUpdate> {987f843f-3ce7-4989-8127-b5d146df0143.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows8.1-kb4499165-x64_a167b1e4b03d5f20df3e2893b37d73bdfacf9660.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4501226){6b28de20-2915-4450-9d94-2a56e5f55cc9.202}</columnParentUpdate>
+    <columnUpdate> {fecb4fa3-d632-4d2a-93f3-870ae2669a27.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/05/windows8.1-kb4501226-x64_2f4859e25e96528e20d756c627285f0f1b407cc9.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-06 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4503290){5b6fe378-dbd0-47a5-b088-1b2c530fdc58.201}</columnParentUpdate>
+    <columnUpdate> {1cff8548-63a0-4ff4-9bfc-3989c1b1e7a1.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4503290-x64_c4e8cd434801249f28da7f82bcdb8c3fa5e39492.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-07 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4507457){66318eca-fd0b-4e3e-b0f6-b0992e0f5d7c.200}</columnParentUpdate>
+    <columnUpdate> {49c71c64-86c6-4354-af05-31b38c63a5ce.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4507457-x64_db8dd7d7b7c9abab88417870a3c259bc17806b4a.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4507413){8ecf8b6f-310d-4e81-8d08-8eb5897380a7.200}</columnParentUpdate>
+    <columnUpdate> {3b6e0851-d48f-4d8f-a65f-ce4118b704d7.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4506962-x64_49cc5bf2bff6657a101f722f3314eacddac31022.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4507413){8ecf8b6f-310d-4e81-8d08-8eb5897380a7.200}</columnParentUpdate>
+    <columnUpdate> {e7f9511c-dd1f-4d25-9969-dcf521ee7469.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows8.1-kb4506977-x64_c0a5c5f94bf6d72e2dd9fa90a1b658ad441e62fc.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-07 Update for Windows Server 2012 R2 for x64-based Systems (KB4507704){53bcb5b3-f7d2-4e63-a7cd-1a08c37937c3.200}</columnParentUpdate>
+    <columnUpdate> {bb223e67-e142-4dab-97c6-697b305e19f3.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/07/windows8.1-kb4507704-x64_a05a34d24e8abeced344f86aa1745b6a11f043cf.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-08 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4512489){b3966674-69a0-477b-a7cf-038bf6d6bf58.202}</columnParentUpdate>
+    <columnUpdate> {5d227222-a25b-472d-ac7f-eb8ac39f5593.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows8.1-kb4512489-x64_2a367d360a809f28f2ceca9c3abed746d58af965.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-09 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4514599){51633312-879f-42d3-98df-16c4881c7526.200}</columnParentUpdate>
+    <columnUpdate> {113df1c6-c181-4c31-838c-f751585536c2.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4514338-x64_53c718f574e6b7fc23706605ceb1d34e9e9e7a2d.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-09 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4514599){51633312-879f-42d3-98df-16c4881c7526.200}</columnParentUpdate>
+    <columnUpdate> {b6b94c2f-b6d0-4166-8b6e-cd23382c8ba8.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4514350-x64_162bb8fc0e6ba11739ddf1c07e207425a2651362.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-09 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4516064){c79723c3-399a-4160-9547-d9b5384db522.201}</columnParentUpdate>
+    <columnUpdate> {a86e915e-3959-4367-8ee4-9d7e45d679cd.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4516064-x64_e7aea27972a56743a19b22485556530b63345b13.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-10 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4519990){e54b6ac3-a904-4687-b53b-6db63a034c57.201}</columnParentUpdate>
+    <columnUpdate> {06474ae2-7df3-44ee-83f7-af9ea6e092bd.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/10/windows8.1-kb4519990-x64_939e7e928abcd9a14b933bbe1b9fcdf1bdc91214.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-10 Update for Windows Server 2012 R2 for x64-based Systems (KB4519108){c0063786-854c-4417-b463-15d970fe2923.200}</columnParentUpdate>
+    <columnUpdate> {9c5be30d-7128-4e77-865a-12286ccc3bd5.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/10/windows8.1-kb4519108-x64_4b5d5e80da679984aa9318c0c1f25b3620c1ee5e.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-11 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4525250){a30c9519-8359-48e1-86d4-38791ad95200.200}</columnParentUpdate>
+    <columnUpdate> {6876d0c0-c95d-4f4f-a868-12f973b3197e.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/10/windows8.1-kb4525250-x64_cd124c1524edfe83279e0a5c0df7ca926d7e01eb.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2019-12 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4530730){41322212-5351-4586-b7bf-09231644bcd9.200}</columnParentUpdate>
+    <columnUpdate> {8c6ed0a4-d1ac-4748-9167-9f67294976a5.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows8.1-kb4530730-x64_417b19fe30a6341082d36e18b5fec1816f322249.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-01 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4534978){92c04c60-e44c-49fc-9804-4cca0202b8a2.200}</columnParentUpdate>
+    <columnUpdate> {37c78a53-7923-4b1e-b756-15107c352218.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532970-x64_d545b7990e9928956d6715f1dd289f32518a89e3.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-01 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4534978){92c04c60-e44c-49fc-9804-4cca0202b8a2.200}</columnParentUpdate>
+    <columnUpdate> {b8d1c641-7d9c-4ee7-8a57-b527ceb7e23f.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532961-x64_251ff8f362f6b82867416df81a290dd1035e70eb.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-01 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4534309){accdac07-3c05-4a81-9353-910e6f292023.201}</columnParentUpdate>
+    <columnUpdate> {6a067d3a-b645-47e2-9af1-714787f647d6.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows8.1-kb4534309-x64_50a3bd6a415152db2cb28fcb044ca96a531b7d22.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-02 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4537803){dae0b2b7-0ee2-45e2-b59d-811480ec470e.201}</columnParentUpdate>
+    <columnUpdate> {25195aaa-5708-4401-a3af-9cccc758ddef.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows8.1-kb4537803-x64_ae9e9298b58dd8de37a903d2f45d4403d17d19ba.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-03 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4541505){7a77ad35-0533-452f-87b6-219d3918c277.201}</columnParentUpdate>
+    <columnUpdate> {ccf5b706-85d6-4cd9-9201-d5fca0ae3919.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/03/windows8.1-kb4541505-x64_03a50b827873087bcf6f6e0c1dc907df5b7b1c9a.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-04 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4550970){5773dae8-5b73-461c-83c8-30e3957462fc.200}</columnParentUpdate>
+    <columnUpdate> {4790423b-a820-453b-879c-063eaf520db8.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/04/windows8.1-kb4550970-x64_a4d0bcb43823c5d26a21943a5cbde10ec6ab45dd.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4556405){3516329a-e556-426c-9c15-b3c64267a4b9.201}</columnParentUpdate>
+    <columnUpdate> {17a748e3-f85c-45c2-b22c-2cde63e5ca15.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552966-x64_e9119bac56e5e3b6baaf64e9004afbd5e5d26980.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-05 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4556405){3516329a-e556-426c-9c15-b3c64267a4b9.201}</columnParentUpdate>
+    <columnUpdate> {6d847d70-4b46-4fbe-ae0a-55485705005a.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552959-x64_5a3e1daf1a7ecd6ad6a83e303a3fb870529313f0.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>Windows Malicious Software Removal Tool x64 - v5.82 (KB890830){2221dd34-39bb-4f16-b320-be49fe4a6b95.202}</columnParentUpdate>
+    <columnUpdate> {b22ee35e-6495-41a5-873b-63ef196395f0.202}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/uprl/2020/05/windows-kb890830-x64-v5.82_917947fbacdb42b1be8d6ee6d21471dc66d9cd54.exe</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4557900){5d4802c0-7c3a-4477-a26a-92a725046690.200}</columnParentUpdate>
+    <columnUpdate> {86cdb574-6206-4744-9625-20b916537eff.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/uprl/2020/05/windows8.1-kb4557900-x64_10c6a76330302b1e1dcbab281106940a3f7fcb24.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-05 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4556853){07792524-02fb-46c4-9236-53e7d03fa3cf.200}</columnParentUpdate>
+    <columnUpdate> {6dd75fae-c26f-4d23-bba5-e7c62f282a83.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4556853-x64_f9cb7da4657c43d340e03983b739f1085940a0a0.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-06 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4561673){5b32eb2c-d144-4006-92b4-f64fb7b90cca.201}</columnParentUpdate>
+    <columnUpdate> {61a0c42e-d171-406e-b80d-8bc9219e2277.201}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4561673-x64_7dcc02dbfd99dcbc6abae0e4205ce95ff65f409f.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4566468){a7a7edf7-9672-4089-af79-f145a7c307fb.200}</columnParentUpdate>
+    <columnUpdate> {2160163e-695c-4758-a2a1-eae4b8d79ac3.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows8.1-kb4565585-x64_b5cc49b7db41b5f88cabfe63da21970275fa6886.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security Only Update for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4566468){a7a7edf7-9672-4089-af79-f145a7c307fb.200}</columnParentUpdate>
+    <columnUpdate> {1e320dcc-5a71-4d5b-b526-bb644e5f447d.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows8.1-kb4565580-v2-x64_914a7ea8c69a4498a723f3ef34e90f08c3b0b4cd.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4566519){73be4d29-60d3-4793-85b1-016cb3bf470d.200}</columnParentUpdate>
+    <columnUpdate> {85180796-61f8-4dc8-8708-bbe150219b58.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565613-v2-x64_510581d0c5a2afbb699f345f865d3e25825d5c90.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security and Quality Rollup for .NET Framework 3.5, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8 for Windows 8.1 and Server 2012 R2 for x64 (KB4566519){73be4d29-60d3-4793-85b1-016cb3bf470d.200}</columnParentUpdate>
+    <columnUpdate> {ec9c473c-fa6a-48fb-8c43-2a661b30f80c.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565622-x64_1589be642b5fc88bc28d9ab48a29a9c02556f920.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Cumulative Security Update for Internet Explorer 11 for Windows Server 2012 R2 for x64-based systems (KB4565479){941b7b29-4d88-4e0d-9853-1153d0a3a927.205}</columnParentUpdate>
+    <columnUpdate> {97e03d57-a1a7-464e-af41-f98bca1bf858.205}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565479-x64_7e7e45408cb1f8652a9a714d27c972bd7d304bb0.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security Only Quality Update for Windows Server 2012 R2 for x64-based Systems (KB4565540){24c2efc2-a29c-4c0e-aa31-ec00d74ffdca.200}</columnParentUpdate>
+    <columnUpdate> {251bafb0-f3c6-4dd3-a4bf-52b78d2a1c1e.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows8.1-kb4565540-x64_b411787d34abfb1b07bb065b3593bfd99d86a716.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Servicing Stack Update for Windows Server 2012 R2 for x64-based Systems (KB4566425){362b5ee9-d309-4e86-a7b9-aae1c112254b.200}</columnParentUpdate>
+    <columnUpdate> {4da4a89a-865c-4877-b65c-5dde4112c797.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows8.1-kb4566425-x64_41776ace20c82868ddc05a5ee6ac0e67a3db8dec.cab</columnUrl>
+  </Grid>
+  <Grid>
+    <columnParentUpdate>2020-07 Security Monthly Quality Rollup for Windows Server 2012 R2 for x64-based Systems (KB4565541){8e621b32-bbc3-4574-8708-5a7d8658f98e.200}</columnParentUpdate>
+    <columnUpdate> {462b364f-149a-4d0a-bb15-22a55366bcc5.200}</columnUpdate>
+    <columnUrl>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows8.1-kb4565541-x64_1945a27f15acf20111ba1424bef68aa91229a4a8.cab</columnUrl>
+  </Grid>
+</BatchPatchUrlList>
